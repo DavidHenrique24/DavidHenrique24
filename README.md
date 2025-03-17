@@ -3,7 +3,7 @@
 <p>Welcome to my Github! </br> I'm David Henrique, from <img src="https://em-content.zobj.net/source/joypixels/257/flag-venezuela_1f1fb-1f1ea.png" width="15"/> <b>Caracas, Venezuela</b>, currently living in <img src="https://em-content.zobj.net/source/joypixels/257/flag-spain_1f1ea-1f1f8.png" width="15"/> <b>Barcelona, Spain</b>. </p>
 
 <h3>I have knowledge in: </h3>
-  <img src="https://skillicons.dev/icons?i=react,docker,sass,git,npm,html,prettier,php,bootstrap,css,mysql,vscode,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,docker,sass,git,npm,html,php,bootstrap,css,mysql,vscode,javascript" />
 
 ## 📌 About me  
 - 🎯 **Main Stack:** Bootstrap, Html, React, and Php.
