@@ -20,8 +20,6 @@
 🛠 **Technologies:** JavaScript, Css, Bootstrap, React & html. <br>
 🔗 **Demo:** [View live](https://tetris-proyecto.vercel.app/)  
 
-<img src="tetris.jpg" width="500"/>
-<br>
 
 ---
 
@@ -30,16 +28,12 @@
 🛠 **Technologies:** Bootstrap, React, Css & html. <br>
 🔗 **Demo:** [View live](https://proyecto-vimeo-eb4e.vercel.app/)  
 
-<img src="vimeo.jpg" width="500"/> <br>
-
 ---
 
 ## 📊 [Design Patterns](https://github.com/DavidHenrique24/Patrones-de-Disenyo-DH)  
 📌 **Description:** A practice to learn about design patterns with included PHP.  
 🛠 **Technologies:** Php, Html, Bootstrap & Css.<br>
 🔗 **Demo:** [View live](https://davesito4.alwaysdata.net/patrones-de-disenyo-php/index.php) 
-
-<img src="patrones.jpg" width="500"/> <br>
 
 ------------
 
