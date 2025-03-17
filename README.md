@@ -10,8 +10,6 @@
 - 🛠 **Experience in:** Frontend & Backend Development.
 - **What I like:** Design and drawing.
 - **Languages:** Spanish and a bit of English.
-<br>
-<br>
 
  <h1>My Projects:</h1>  
 
