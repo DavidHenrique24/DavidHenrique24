@@ -37,7 +37,7 @@
 
 ------------
 
-### 📫 Contact  
+# 📫 Contact  
 📩 **Email:** [davesito45@gmail.com](davesito45@gmail.com) <br>
 💼 **LinkedIn:** [https://www.linkedin.com/in/dave-sito-9519a3356/](https://www.linkedin.com/in/dave-sito-9519a3356/)  
 
