@@ -8,8 +8,8 @@
 ## 📌 About me  
 - 🎯 **Main Stack:** Bootstrap, Html, React, and Php.
 - 🛠 **Experience in:** Frontend & Backend Development.
-- **What I like:** Design and drawing.
-- **Languages:** Spanish and a bit of English.
+- ✏️ **What I like:** Design and drawing.
+- 🗣️**Languages:** Spanish and a bit of English.
 
  <h1>My Projects:</h1>  
 
