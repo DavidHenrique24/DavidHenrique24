@@ -11,14 +11,13 @@ I'm **19** years old, and I'm an amateur in programming and web design!!
 <img src="https://skillicons.dev/icons?i=react,docker,sass,git,npm,html,php,bootstrap,css,mysql,vscode,javascript"/>
 
 </div>
-
-## 📌 About me !!  
-- **Main Stack:** Bootstrap, HTML, React, and PHP.  
-- **Experience in:** Frontend & Backend Development.  
-- **What I like:** Design, videogames, anime, TV series, and drawing.  
-- **Languages:** Spanish and a bit of English.  
-
 <div align="center">
+## 📌 About me !!  <br>
+- **Main Stack:** Bootstrap, HTML, React, and PHP.  <br>
+- **Experience in:** Frontend & Backend Development.  <br>
+- **What I like:** Design, videogames, anime, TV series, and drawing.  <br>
+- **Languages:** Spanish and a bit of English.  <br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHenrique24&layout=compact&theme=tokyonight"/>
 </div>
 
