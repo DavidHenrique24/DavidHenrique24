@@ -1,4 +1,5 @@
-<h1> Hi! Nice to meet you. </h1>
+<h1> Hi! I'm David!! </h1> 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px" />
 
 <p>Welcome to my Github! </br> I'm David Henrique, from <img src="https://em-content.zobj.net/source/joypixels/257/flag-venezuela_1f1fb-1f1ea.png" width="15"/> <b>Caracas, Venezuela</b>, currently living in <img src="https://em-content.zobj.net/source/joypixels/257/flag-spain_1f1ea-1f1f8.png" width="15"/> <b>Barcelona, Spain</b>.  
 <br>I'm <strong>19</strong> years old, and I'm an amateur in programming and web design!! </p>
