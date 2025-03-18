@@ -22,7 +22,7 @@
       </a>
     </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJqYWlwdjc1ZHZ6N3Q5bDFjMnlteG50YWNibHk5anpuZmxoZGJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuMFETEGgiG6F2L3uO/giphy.gif" width="200px" />
+   
     </td>
   </tr>
 </table>
